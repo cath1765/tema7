@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<style>
+    div {
+        width: 100px;
+        height: 100px;
+        background-color: #6db0fd;
+        display: inline-block;
+        border-radius: 0;
+        transition: .5s;
+    }
+
+    .marker {
+        background-color: #e283ff;
+        border-radius: 0;
+    }
+</style>
+
+<body>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+
+
+
+    <script>
+        const diver = document.querySelectorAll("div");
+        console.log(diver)
+
+        diver.forEach(div => {
+            div.addEventListener("click", marker);
+        })
+
+        function marker() {
+            this.classList.toggle("marker");
+        }
+    </script>
+</body>
+</html>

@@ -8,18 +8,18 @@
 <style>
     #firkant {
         background-color: green;
-        height: 100px;
-        width: 100px;
-        line-height: 100px;
+        height: 240px;
+        width: 240px;
+        line-height: 280px;
         align-items: center;
 
     }
 
     #cirkel {
         background-color: red;
-        height: 100px;
-        width: 100px;
-        line-height: 100px;
+        height: 250px;
+        width: 250px;
+        line-height: 280px;
         border-radius: 50%;
         align-items: center;
     }
@@ -28,9 +28,9 @@
 
 <body>
 
-    <div id="firkant"><img src="http://mabe-kea.dk/E19/pics/frog.png" alt="frog">
+   <div id="firkant"><img src="http://mabe-kea.dk/E19/pics/frog.png" alt="frog">
     </div>
-    <div id="cirkel"> <img src="http://mabe-kea.dk/E19/pics/pig.png" alt="gris">
+    <div id="cirkel"> <img src="http://mabe-kea.dk/E19/pics/pig.png" alt="gris"> <img src="http://mabe-kea.dk/E19/pics/fox.png" alt="rev">
     </div>
 
 </body>
@@ -42,6 +42,8 @@
 
     document.querySelector(".cirkel").innerHTML = `<img src="
     http: //mabe-kea.dk/E19/pics/pig.png" alt="gris">">`;
+
+    document.querySelector(".cirkel").innerHTML = `<img src="http://mabe-kea.dk/E19/pics/fox.png" alt="rev">`;
 </script>
 
 </html>

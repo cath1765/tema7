@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Person</h1>
+    <h2>Navn hold</h2>
+    <img class="profil-billede">
+    <script>
+        const person = {
+            navn: "cathrine",
+            hold: "b",
+            højde: 170,
+            hårfarve: "blond",
+            billede: "http://cathrinethoegersen.dk//kea/00-introuge/Selvportraet.jpeg"
+        }
+
+        const h2 = document.querySelector("h2");
+        h2.textContent = person.navn;
+        h2.textContent += "hold " + person.hold;
+        const img = document.querySelector("img");
+        img.src = person.billede;
+        img.alt = "billede af mig";
+
+
+
+        console.log(person.navn, person.billede);
+    </script>
+
+</body>
+</html>

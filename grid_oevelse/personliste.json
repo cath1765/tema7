@@ -1,0 +1,5228 @@
+{
+    version: "1.0",
+    encoding: "UTF-8",
+    feed: {
+        xmlns: "http://www.w3.org/2005/Atom",
+        xmlns$openSearch: "http://a9.com/-/spec/opensearchrss/1.0/",
+        xmlns$gsx: "http://schemas.google.com/spreadsheets/2006/extended",
+        id: {
+            $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values"
+        },
+        updated: {
+            $t: "2019-08-30T09:13:32.086Z"
+        },
+        category: [
+            {
+                scheme: "http://schemas.google.com/spreadsheets/2006",
+                term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+        title: {
+            type: "text",
+            $t: "Ark1"
+        },
+        link: [
+            {
+                rel: "alternate",
+                type: "application/atom+xml",
+                href: "https://docs.google.com/spreadsheets/d/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/pubhtml"
+},
+            {
+                rel: "http://schemas.google.com/g/2005#feed",
+                type: "application/atom+xml",
+                href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values"
+},
+            {
+                rel: "http://schemas.google.com/g/2005#post",
+                type: "application/atom+xml",
+                href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values"
+},
+            {
+                rel: "self",
+                type: "application/atom+xml",
+                href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values?alt=json"
+}
+],
+        author: [
+            {
+                name: {
+                    $t: "klausmandal"
+                },
+                email: {
+                    $t: "klausmandal@gmail.com"
+                }
+}
+],
+        openSearch$totalResults: {
+            $t: "92"
+        },
+        openSearch$startIndex: {
+            $t: "1"
+        },
+        entry: [
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cokwr"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Ole"
+                },
+                content: {
+                    type: "text",
+                    $t: ""
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cokwr"
+}
+],
+                gsx$navn: {
+                    $t: "Ole"
+                },
+                gsx$github: {
+                    $t: ""
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: ""
+                },
+                gsx$køn: {
+                    $t: ""
+                },
+                gsx$email: {
+                    $t: ""
+                },
+                gsx$hold: {
+                    $t: ""
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cpzh4"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Alan Engelhardt"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: alan-engelhardt, billede: http://ale-kea.dk/images/alan_thumb.JPG, alder: 57, køn: m, email: ale@kea.dk, hold: b, historie: Det er aldrig for sent at få en lykkelig barndom"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cpzh4"
+}
+],
+                gsx$navn: {
+                    $t: "Alan Engelhardt"
+                },
+                gsx$github: {
+                    $t: "alan-engelhardt"
+                },
+                gsx$billede: {
+                    $t: "http://ale-kea.dk/images/alan_thumb.JPG"
+                },
+                gsx$alder: {
+                    $t: "57"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "ale@kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: "Det er aldrig for sent at få en lykkelig barndom"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cre1l"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Alexander Rudolph Craner"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: alex5580, billede: https://avatars2.githubusercontent.com/u/47736532?s=460&v=4, alder: 22, køn: m, email: alexrcraner@gmail.com, hold: a, historie: husk at drikke vand folkens!"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cre1l"
+}
+],
+                gsx$navn: {
+                    $t: "Alexander Rudolph Craner"
+                },
+                gsx$github: {
+                    $t: "alex5580"
+                },
+                gsx$billede: {
+                    $t: "https://avatars2.githubusercontent.com/u/47736532?s=460&v=4"
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "alexrcraner@gmail.com"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "husk at drikke vand folkens!"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/chk2m"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Alice Hildur Hüllert"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: alic0730, billede: http://alicehullert.com/kea/00-introuge/selvportraet.jpg, alder: 23, køn: k, email: alic0730@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/chk2m"
+}
+],
+                gsx$navn: {
+                    $t: "Alice Hildur Hüllert"
+                },
+                gsx$github: {
+                    $t: "alic0730"
+                },
+                gsx$billede: {
+                    $t: "http://alicehullert.com/kea/00-introuge/selvportraet.jpg"
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "alic0730@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ciyn3"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Amalie Ravn Poulsen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: amal673c, alder: 23, køn: K, email: amal673c@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ciyn3"
+}
+],
+                gsx$navn: {
+                    $t: "Amalie Ravn Poulsen"
+                },
+                gsx$github: {
+                    $t: "amal673c"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "K"
+                },
+                gsx$email: {
+                    $t: "amal673c@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ckd7g"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Anna Riis Lundstrøm"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: anna418u, billede: https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/38419760_10216700447962399_7851380021598879744_n.jpg?_nc_cat=103&_nc_ht=scontent-arn2-1.xx&oh=a413e9ab85a495c12163e19f1f669156&oe=5CE61E03, alder: 25, køn: k, email: anna418u@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ckd7g"
+}
+],
+                gsx$navn: {
+                    $t: "Anna Riis Lundstrøm"
+                },
+                gsx$github: {
+                    $t: "anna418u"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/38419760_10216700447962399_7851380021598879744_n.jpg?_nc_cat=103&_nc_ht=scontent-arn2-1.xx&oh=a413e9ab85a495c12163e19f1f669156&oe=5CE61E03"
+                },
+                gsx$alder: {
+                    $t: "25"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "anna418u@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/clrrx"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Anna Severine Jensen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: anna287v, alder: 23, køn: k, email: anna287v@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/clrrx"
+}
+],
+                gsx$navn: {
+                    $t: "Anna Severine Jensen"
+                },
+                gsx$github: {
+                    $t: "anna287v"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "anna287v@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cyevm"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Anne-Sofie Nielsen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: anne3m40, billede: http://annesofienielsen.dk/kea/00-introuge/selvportraet.jpeg, alder: 27, køn: k, email: anne3m40@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cyevm"
+}
+],
+                gsx$navn: {
+                    $t: "Anne-Sofie Nielsen"
+                },
+                gsx$github: {
+                    $t: "anne3m40"
+                },
+                gsx$billede: {
+                    $t: "http://annesofienielsen.dk/kea/00-introuge/selvportraet.jpeg"
+                },
+                gsx$alder: {
+                    $t: "27"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "anne3m40@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cztg3"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Asha Samale"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: asha0207, alder: 33, email: asha0207@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cztg3"
+}
+],
+                gsx$navn: {
+                    $t: "Asha Samale"
+                },
+                gsx$github: {
+                    $t: "asha0207"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "33"
+                },
+                gsx$køn: {
+                    $t: ""
+                },
+                gsx$email: {
+                    $t: "asha0207@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d180g"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Asta Vittrup Graversen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: asta3090, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/37161524_10217365771123291_615636489040035840_n.jpg?_nc_cat=110&_nc_oc=AQkLmKNGg3ehp1g2ggbOw4yNgpkESwTO0UwTAuNFysep0H5AD26KBp8nDDbdXUUzaEE&_nc_ht=scontent-frt3-2.xx&oh=fb6b55e1ee41c77577200e3881203add&oe=5E028D0B, alder: 22, køn: qvinde, email: astagraversen@gmail.com, hold: a, historie: Don't hate the player hate the game, _d180g: SYGT SKREVET ASLAN!"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d180g"
+}
+],
+                gsx$navn: {
+                    $t: "Asta Vittrup Graversen"
+                },
+                gsx$github: {
+                    $t: "asta3090"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/37161524_10217365771123291_615636489040035840_n.jpg?_nc_cat=110&_nc_oc=AQkLmKNGg3ehp1g2ggbOw4yNgpkESwTO0UwTAuNFysep0H5AD26KBp8nDDbdXUUzaEE&_nc_ht=scontent-frt3-2.xx&oh=fb6b55e1ee41c77577200e3881203add&oe=5E028D0B"
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "qvinde"
+                },
+                gsx$email: {
+                    $t: "astagraversen@gmail.com"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "Don't hate the player hate the game"
+                },
+                gsx$status: {
+                    $t: ""
+                },
+                gsx$_d180g: {
+                    $t: "SYGT SKREVET ASLAN!"
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d2mkx"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Besart Bara"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: besa0100, alder: 27, køn: Mand, email: besa0100@stud.kea.dk, hold: b, status: Hvis hun er fra 1. semester, så er jeg single"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d2mkx"
+}
+],
+                gsx$navn: {
+                    $t: "Besart Bara"
+                },
+                gsx$github: {
+                    $t: "besa0100"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "27"
+                },
+                gsx$køn: {
+                    $t: "Mand"
+                },
+                gsx$email: {
+                    $t: "besa0100@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: "Hvis hun er fra 1. semester, så er jeg single"
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cssly"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Cajsa Phoebe Toftgaard Christensen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: cajsaphoebe, alder: 21, køn: k, email: cajs0014@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cssly"
+}
+],
+                gsx$navn: {
+                    $t: "Cajsa Phoebe Toftgaard Christensen"
+                },
+                gsx$github: {
+                    $t: "cajsaphoebe"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "21"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "cajs0014@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cu76f"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Carina Hollænder"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: cari6403, billede: http://www.carinahollaender.eu/kea/00-introuge/selvpotraet.jpeg, alder: 25, køn: k, email: cari6403@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cu76f"
+}
+],
+                gsx$navn: {
+                    $t: "Carina Hollænder"
+                },
+                gsx$github: {
+                    $t: "cari6403"
+                },
+                gsx$billede: {
+                    $t: "http://www.carinahollaender.eu/kea/00-introuge/selvpotraet.jpeg"
+                },
+                gsx$alder: {
+                    $t: "25"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "cari6403@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cvlqs"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Cathrine Thøgersen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: cath1765, billede: http://cathrinethoegersen.dk/kea/00-introuge/Selvportraet.jpeg, alder: 20, køn: k, email: cath1765@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cvlqs"
+}
+],
+                gsx$navn: {
+                    $t: "Cathrine Thøgersen"
+                },
+                gsx$github: {
+                    $t: "cath1765"
+                },
+                gsx$billede: {
+                    $t: "http://cathrinethoegersen.dk/kea/00-introuge/Selvportraet.jpeg"
+                },
+                gsx$alder: {
+                    $t: "20"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "cath1765@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cx0b9"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Christina Marie Jørgensen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: christinajoergensen, alder: 23, køn: K, email: chri03dk@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/cx0b9"
+}
+],
+                gsx$navn: {
+                    $t: "Christina Marie Jørgensen"
+                },
+                gsx$github: {
+                    $t: "christinajoergensen"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "K"
+                },
+                gsx$email: {
+                    $t: "chri03dk@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d9ney"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Christopher Tørper Grøn"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: chri50dk, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/13407080_10206328105312000_2621856122431570052_n.jpg?_nc_cat=110&_nc_oc=AQmz4UgBgMstjdD7D7dBIbU84QWYinFcBi8g3pzUeBRls2gW3sfArqH15Qy9PNwhu5Q&_nc_ht=scontent-frt3-2.xx&oh=821ed2e1a67972e70560d1308bda005f&oe=5E0E5573, alder: 24, køn: Hen, email: chri50dk@stud.kea.dk, hold: b, status: Pt igang med en Raid Boss i Original WOW"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d9ney"
+}
+],
+                gsx$navn: {
+                    $t: "Christopher Tørper Grøn"
+                },
+                gsx$github: {
+                    $t: "chri50dk"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/13407080_10206328105312000_2621856122431570052_n.jpg?_nc_cat=110&_nc_oc=AQmz4UgBgMstjdD7D7dBIbU84QWYinFcBi8g3pzUeBRls2gW3sfArqH15Qy9PNwhu5Q&_nc_ht=scontent-frt3-2.xx&oh=821ed2e1a67972e70560d1308bda005f&oe=5E0E5573"
+                },
+                gsx$alder: {
+                    $t: "24"
+                },
+                gsx$køn: {
+                    $t: "Hen"
+                },
+                gsx$email: {
+                    $t: "chri50dk@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: "Pt igang med en Raid Boss i Original WOW"
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/db1zf"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Emilie Dalgaard Pedersen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: emil37j0, alder: 23, køn: k, email: emil37j0@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/db1zf"
+}
+],
+                gsx$navn: {
+                    $t: "Emilie Dalgaard Pedersen"
+                },
+                gsx$github: {
+                    $t: "emil37j0"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "emil37j0@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dcgjs"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Emilie Ejersted Larsen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: emil3724, alder: 23, køn: k, email: emil3724@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dcgjs"
+}
+],
+                gsx$navn: {
+                    $t: "Emilie Ejersted Larsen"
+                },
+                gsx$github: {
+                    $t: "emil3724"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "emil3724@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ddv49"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Esau Kallan"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: Esauu, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/37069899_10217559012554186_1099659078298238976_o.jpg?_nc_cat=110&_nc_oc=AQk7ulgbiPKocdIj5EWOmsNl4GcHZPN08ElCjxwclsooUGN2y5CMmvWfbKjq-cOyiZ0&_nc_ht=scontent-frt3-2.xx&oh=3b81f9d047e53221af133b778e92104c&oe=5DD0C824, alder: 23, køn: Mand, email: esau0002@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ddv49"
+}
+],
+                gsx$navn: {
+                    $t: "Esau Kallan"
+                },
+                gsx$github: {
+                    $t: "Esauu"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/37069899_10217559012554186_1099659078298238976_o.jpg?_nc_cat=110&_nc_oc=AQk7ulgbiPKocdIj5EWOmsNl4GcHZPN08ElCjxwclsooUGN2y5CMmvWfbKjq-cOyiZ0&_nc_ht=scontent-frt3-2.xx&oh=3b81f9d047e53221af133b778e92104c&oe=5DD0C824"
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "Mand"
+                },
+                gsx$email: {
+                    $t: "esau0002@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d415a"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Fiona Maria Wray"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: fion0659, alder: 22, køn: k, email: fion0659@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d415a"
+}
+],
+                gsx$navn: {
+                    $t: "Fiona Maria Wray"
+                },
+                gsx$github: {
+                    $t: "fion0659"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "fion0659@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d5fpr"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Frederik Baden Jørgensen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: freddyspaghetti, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/66030757_10220378205270742_2721733961024798720_n.jpg?_nc_cat=101&_nc_oc=AQmQbvsrossabKHlHgwS5LYNHk0zKgexCtAPKiy9lKw3yzIn8JtUne-zEAno9N98GU8&_nc_ht=scontent-frt3-2.xx&oh=881ccf51d5e83858f0fbf694ec31be6f&oe=5E0725A0, alder: 27, køn: m, email: frederik.bjorgensen@gmail.com, hold: b, historie: "
+                    Thirty - eight revolve like the sun round the Earth.
+                    " - Jay-Z"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d5fpr"
+}
+],
+                gsx$navn: {
+                    $t: "Frederik Baden Jørgensen"
+                },
+                gsx$github: {
+                    $t: "freddyspaghetti"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/66030757_10220378205270742_2721733961024798720_n.jpg?_nc_cat=101&_nc_oc=AQmQbvsrossabKHlHgwS5LYNHk0zKgexCtAPKiy9lKw3yzIn8JtUne-zEAno9N98GU8&_nc_ht=scontent-frt3-2.xx&oh=881ccf51d5e83858f0fbf694ec31be6f&oe=5E0725A0"
+                },
+                gsx$alder: {
+                    $t: "27"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "frederik.bjorgensen@gmail.com"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                    Thirty - eight revolve like the sun round the Earth.
+                    " - Jay-Z"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d6ua4"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Frederikke Flesborg"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: gurlpower, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/68749348_10220351028712183_8372380818986762240_n.jpg?_nc_cat=109&_nc_oc=AQkZioFyuwqK83lzXiMArExyw7werDMULhpd9oInV0ns3YoKKaVvu_O7F2hOVB1laxo&_nc_ht=scontent-frt3-2.xx&oh=c664745aa3434da64580d65d48a44a65&oe=5E125DF9, alder: 23, køn: k, email: fred4007@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d6ua4"
+}
+],
+                gsx$navn: {
+                    $t: "Frederikke Flesborg"
+                },
+                gsx$github: {
+                    $t: "gurlpower"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/68749348_10220351028712183_8372380818986762240_n.jpg?_nc_cat=109&_nc_oc=AQkZioFyuwqK83lzXiMArExyw7werDMULhpd9oInV0ns3YoKKaVvu_O7F2hOVB1laxo&_nc_ht=scontent-frt3-2.xx&oh=c664745aa3434da64580d65d48a44a65&oe=5E125DF9"
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "fred4007@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d88ul"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Freja Peulicke Jørgensen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: frej1187, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-1/p320x320/18581633_10155421527292948_5394977638154873754_n.jpg?_nc_cat=108&_nc_oc=AQlsQwCjd2rCR5z50TxQeMC3ZGVDBeMk-5d2U1tMa8eEKqV68x2Qf-ANTcRdpci8MuE&_nc_ht=scontent-frt3-2.xx&oh=f67b8d05cfefb2995da04810ab0a68c8&oe=5E128B6D, alder: 29, køn: k, email: frej1187@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/d88ul"
+}
+],
+                gsx$navn: {
+                    $t: "Freja Peulicke Jørgensen"
+                },
+                gsx$github: {
+                    $t: "frej1187"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-1/p320x320/18581633_10155421527292948_5394977638154873754_n.jpg?_nc_cat=108&_nc_oc=AQlsQwCjd2rCR5z50TxQeMC3ZGVDBeMk-5d2U1tMa8eEKqV68x2Qf-ANTcRdpci8MuE&_nc_ht=scontent-frt3-2.xx&oh=f67b8d05cfefb2995da04810ab0a68c8&oe=5E128B6D"
+                },
+                gsx$alder: {
+                    $t: "29"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "frej1187@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dkvya"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Henrijette Nielsen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: henr8218, alder: 24, køn: k, email: henr8218@stud.kea.dk, hold: b, status: Its complicated "
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dkvya"
+}
+],
+                gsx$navn: {
+                    $t: "Henrijette Nielsen"
+                },
+                gsx$github: {
+                    $t: "henr8218"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "24"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "henr8218@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: "Its complicated "
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dmair"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Isabella Damkjer Boisen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: isab3498, alder: 23, email: isab3498@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dmair"
+}
+],
+                gsx$navn: {
+                    $t: "Isabella Damkjer Boisen"
+                },
+                gsx$github: {
+                    $t: "isab3498"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: ""
+                },
+                gsx$email: {
+                    $t: "isab3498@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dnp34"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Jasmin Agnes Dunch Taylor"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: jasm3790, billede: https://www.facebook.com/photo.php?fbid=10206512314273239&set=a.1384421737203&type=3&theater, alder: 20, køn: K, email: jasm3790@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dnp34"
+}
+],
+                gsx$navn: {
+                    $t: "Jasmin Agnes Dunch Taylor"
+                },
+                gsx$github: {
+                    $t: "jasm3790"
+                },
+                gsx$billede: {
+                    $t: "https://www.facebook.com/photo.php?fbid=10206512314273239&set=a.1384421737203&type=3&theater"
+                },
+                gsx$alder: {
+                    $t: "20"
+                },
+                gsx$køn: {
+                    $t: "K"
+                },
+                gsx$email: {
+                    $t: "jasm3790@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dp3nl"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Jennifer Strejby Jaqué"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: jenn3204, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/48417816_10157052973592834_5508268193883357184_o.jpg?_nc_cat=102&_nc_oc=AQkObwq65NCWB1hxgp3ZE4Y1UyEdVJeqzxcuPofc1YDrxWg_Nft6jrS7dC2xEb6_oxk&_nc_ht=scontent-frt3-2.xx&oh=2faf7011e5bcbfbf578c409205a12738&oe=5E07EDFB, alder: 27, køn: k, email: jenn3204@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dp3nl"
+}
+],
+                gsx$navn: {
+                    $t: "Jennifer Strejby Jaqué"
+                },
+                gsx$github: {
+                    $t: "jenn3204"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/48417816_10157052973592834_5508268193883357184_o.jpg?_nc_cat=102&_nc_oc=AQkObwq65NCWB1hxgp3ZE4Y1UyEdVJeqzxcuPofc1YDrxWg_Nft6jrS7dC2xEb6_oxk&_nc_ht=scontent-frt3-2.xx&oh=2faf7011e5bcbfbf578c409205a12738&oe=5E07EDFB"
+                },
+                gsx$alder: {
+                    $t: "27"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "jenn3204@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/df9om"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Jenny Sila"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: jasila, billede: https://bit.ly/2HA4pGt, alder: 25, køn: k, email: jenn0394@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/df9om"
+}
+],
+                gsx$navn: {
+                    $t: "Jenny Sila"
+                },
+                gsx$github: {
+                    $t: "jasila"
+                },
+                gsx$billede: {
+                    $t: "https://bit.ly/2HA4pGt"
+                },
+                gsx$alder: {
+                    $t: "25"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "jenn0394@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dgo93"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Johan Høyen Nielsen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: johan3060, alder: 22, køn: m, email: joha2299@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dgo93"
+}
+],
+                gsx$navn: {
+                    $t: "Johan Høyen Nielsen"
+                },
+                gsx$github: {
+                    $t: "johan3060"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "joha2299@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/di2tg"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Jonas Friis Kjær"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: jona74c2, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t31.0-8/12823492_10208230604780891_8864360830752419497_o.jpg?_nc_cat=110&_nc_oc=AQnQacvyDT7LVrKBlC_7iendvvLYMOHJWufeBwXe0BtGY1dmZv0gvnLjf0nrx39MTtg&_nc_ht=scontent-frt3-2.xx&oh=1a518d718af02b8c08835974e98f498b&oe=5DC81589, alder: 25, køn: ja, email: jona74c2@stud.kea.dk, hold: b, historie: like beer"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/di2tg"
+}
+],
+                gsx$navn: {
+                    $t: "Jonas Friis Kjær"
+                },
+                gsx$github: {
+                    $t: "jona74c2"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t31.0-8/12823492_10208230604780891_8864360830752419497_o.jpg?_nc_cat=110&_nc_oc=AQnQacvyDT7LVrKBlC_7iendvvLYMOHJWufeBwXe0BtGY1dmZv0gvnLjf0nrx39MTtg&_nc_ht=scontent-frt3-2.xx&oh=1a518d718af02b8c08835974e98f498b&oe=5DC81589"
+                },
+                gsx$alder: {
+                    $t: "25"
+                },
+                gsx$køn: {
+                    $t: "ja"
+                },
+                gsx$email: {
+                    $t: "jona74c2@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: "like beer"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/djhdx"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Jonas Vincenzo Lacentra"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: lacentra, alder: 26, køn: m, email: jona52d7@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/djhdx"
+}
+],
+                gsx$navn: {
+                    $t: "Jonas Vincenzo Lacentra"
+                },
+                gsx$github: {
+                    $t: "lacentra"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "26"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "jona52d7@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dw4je"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Josefine Wittendorff Olsen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: jose711f, billede: http://josefinewo.dk/kea/00-introuge/selvportrait.jpeg, alder: 22, køn: K, email: jose711f@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dw4je"
+}
+],
+                gsx$navn: {
+                    $t: "Josefine Wittendorff Olsen"
+                },
+                gsx$github: {
+                    $t: "jose711f"
+                },
+                gsx$billede: {
+                    $t: "http://josefinewo.dk/kea/00-introuge/selvportrait.jpeg"
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "K"
+                },
+                gsx$email: {
+                    $t: "jose711f@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dxj3v"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Kamilla Viktor"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: kvikea, billede: https://www.facebook.com/search/async/profile_picture/?fbid=1315797926&width=72&height=72, alder: 39, køn: k, email: kvi@kea.dk, hold: b, historie: uden titel"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dxj3v"
+}
+],
+                gsx$navn: {
+                    $t: "Kamilla Viktor"
+                },
+                gsx$github: {
+                    $t: "kvikea"
+                },
+                gsx$billede: {
+                    $t: "https://www.facebook.com/search/async/profile_picture/?fbid=1315797926&width=72&height=72"
+                },
+                gsx$alder: {
+                    $t: "39"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "kvi@kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: "uden titel"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dyxo8"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Kathrine Brohus"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: kath4094, alder: 24, køn: k, email: kath4094@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dyxo8"
+}
+],
+                gsx$navn: {
+                    $t: "Kathrine Brohus"
+                },
+                gsx$github: {
+                    $t: "kath4094"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "24"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "kath4094@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e0c8p"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Kian Hanson"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: kianhanson19, alder: 25, køn: m, email: kian0959@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e0c8p"
+}
+],
+                gsx$navn: {
+                    $t: "Kian Hanson"
+                },
+                gsx$github: {
+                    $t: "kianhanson19"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "25"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "kian0959@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dqi9q"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Kirstine Aggergaard"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: kirstineaggaregaard, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/55698623_2349964535013688_4568737827231105024_n.jpg?_nc_cat=100&_nc_oc=AQnVKti3YuDwD2ildXYTalXuRMMNyZ0e-uKh6q8JgpFJi3AtUUjIvNzkykFR0VUp_sw&_nc_ht=scontent-frt3-2.xx&oh=0f6eb04bb406ffd8e4e6e1bbec1d7eb2&oe=5E136E28, alder: 23, køn: k, email: kirs154k@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dqi9q"
+}
+],
+                gsx$navn: {
+                    $t: "Kirstine Aggergaard"
+                },
+                gsx$github: {
+                    $t: "kirstineaggaregaard"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/55698623_2349964535013688_4568737827231105024_n.jpg?_nc_cat=100&_nc_oc=AQnVKti3YuDwD2ildXYTalXuRMMNyZ0e-uKh6q8JgpFJi3AtUUjIvNzkykFR0VUp_sw&_nc_ht=scontent-frt3-2.xx&oh=0f6eb04bb406ffd8e4e6e1bbec1d7eb2&oe=5E136E28"
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "kirs154k@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/drwu7"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Klaus Mandal"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: MondaleMondale, billede: http://mandalskeawebspace.dk/mitfoto/elvis.jpg, alder: 14, køn: m, email: klmh@kea.dk, hold: a, historie: It seemed like the right thing to do at the time"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/drwu7"
+}
+],
+                gsx$navn: {
+                    $t: "Klaus Mandal"
+                },
+                gsx$github: {
+                    $t: "MondaleMondale"
+                },
+                gsx$billede: {
+                    $t: "http://mandalskeawebspace.dk/mitfoto/elvis.jpg"
+                },
+                gsx$alder: {
+                    $t: "14"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "klmh@kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "It seemed like the right thing to do at the time"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dtbek"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Kristian Milas Hadberg"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: kris52h6, alder: 22, køn: m, email: kris5h26@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dtbek"
+}
+],
+                gsx$navn: {
+                    $t: "Kristian Milas Hadberg"
+                },
+                gsx$github: {
+                    $t: "kris52h6"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "kris5h26@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dupz1"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Lasse Stausgaard"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: BigMoneyBigCars, billede: https://www.linkedin.com/in/lasse-stausgaard-1b612310b, alder: 26, køn: M, email: l.stausgaard@gmail.com, hold: a, historie: giv hende et job, helt ærligt."
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/dupz1"
+}
+],
+                gsx$navn: {
+                    $t: "Lasse Stausgaard"
+                },
+                gsx$github: {
+                    $t: "BigMoneyBigCars"
+                },
+                gsx$billede: {
+                    $t: "https://www.linkedin.com/in/lasse-stausgaard-1b612310b"
+                },
+                gsx$alder: {
+                    $t: "26"
+                },
+                gsx$køn: {
+                    $t: "M"
+                },
+                gsx$email: {
+                    $t: "l.stausgaard@gmail.com"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "giv hende et job, helt ærligt."
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e7d2q"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Leonora Loft"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: leonoraloft, alder: 29, køn: k, email: leonoraloft@gmail.com"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e7d2q"
+}
+],
+                gsx$navn: {
+                    $t: "Leonora Loft"
+                },
+                gsx$github: {
+                    $t: "leonoraloft"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "29"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "leonoraloft@gmail.com"
+                },
+                gsx$hold: {
+                    $t: ""
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e8rn7"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Linn Marie Wollesen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: linn0505, alder: 20, køn: K, email: linn0505@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e8rn7"
+}
+],
+                gsx$navn: {
+                    $t: "Linn Marie Wollesen"
+                },
+                gsx$github: {
+                    $t: "linn0505"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "20"
+                },
+                gsx$køn: {
+                    $t: "K"
+                },
+                gsx$email: {
+                    $t: "linn0505@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ea67k"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Lisa Bianca Henning Søndergaard"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: lisa3074, alder: 300, køn: k, email: lisa3074@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ea67k"
+}
+],
+                gsx$navn: {
+                    $t: "Lisa Bianca Henning Søndergaard"
+                },
+                gsx$github: {
+                    $t: "lisa3074"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "300"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "lisa3074@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ebks1"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Mads Gerner Andersen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: madsgerner, billede: https://i.pinimg.com/originals/d5/ef/60/d5ef607b90f5f66e0d8ffdd123870774.png, alder: 26, køn: m, email: mads19f8@stud.kea.dk, hold: a, historie: it aint easy being steezy"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ebks1"
+}
+],
+                gsx$navn: {
+                    $t: "Mads Gerner Andersen"
+                },
+                gsx$github: {
+                    $t: "madsgerner"
+                },
+                gsx$billede: {
+                    $t: "https://i.pinimg.com/originals/d5/ef/60/d5ef607b90f5f66e0d8ffdd123870774.png"
+                },
+                gsx$alder: {
+                    $t: "26"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "mads19f8@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "it aint easy being steezy"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e1qt2"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Mads Ibrahim Iversen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: mads1612, billede: http://madsiversenn.dk/kea/00_introuge/selvportraet/selvportraet.jpg, alder: 28, køn: M, email: mads17f7@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e1qt2"
+}
+],
+                gsx$navn: {
+                    $t: "Mads Ibrahim Iversen"
+                },
+                gsx$github: {
+                    $t: "mads1612"
+                },
+                gsx$billede: {
+                    $t: "http://madsiversenn.dk/kea/00_introuge/selvportraet/selvportraet.jpg"
+                },
+                gsx$alder: {
+                    $t: "28"
+                },
+                gsx$køn: {
+                    $t: "M"
+                },
+                gsx$email: {
+                    $t: "mads17f7@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e35dj"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Maria Tangsgaard Jensen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: mariatangsgaard, alder: 24, køn: k, email: mari41gh@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e35dj"
+}
+],
+                gsx$navn: {
+                    $t: "Maria Tangsgaard Jensen"
+                },
+                gsx$github: {
+                    $t: "mariatangsgaard"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "24"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "mari41gh@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e4jxw"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Maria Viehweg Brendstrup"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: mari78f9, billede: https://www.facebook.com/photo.php?fbid=10219735255550561&set=a.1605283330659&type=3&theater, alder: 25, køn: K, email: mari78f9@stud.kea.dk, hold: A, historie: zzzzz"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e4jxw"
+}
+],
+                gsx$navn: {
+                    $t: "Maria Viehweg Brendstrup"
+                },
+                gsx$github: {
+                    $t: "mari78f9"
+                },
+                gsx$billede: {
+                    $t: "https://www.facebook.com/photo.php?fbid=10219735255550561&set=a.1605283330659&type=3&theater"
+                },
+                gsx$alder: {
+                    $t: "25"
+                },
+                gsx$køn: {
+                    $t: "K"
+                },
+                gsx$email: {
+                    $t: "mari78f9@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "A"
+                },
+                gsx$historie: {
+                    $t: "zzzzz"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e5yid"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Marie Friis Larsen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: marielykkefriis, billede: http://marollemarie.dk/kea/00-introuge/selvportraet.jpeg?id=1, alder: 23, køn: K, email: mari43gh@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/e5yid"
+}
+],
+                gsx$navn: {
+                    $t: "Marie Friis Larsen"
+                },
+                gsx$github: {
+                    $t: "marielykkefriis"
+                },
+                gsx$billede: {
+                    $t: "http://marollemarie.dk/kea/00-introuge/selvportraet.jpeg?id=1"
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "K"
+                },
+                gsx$email: {
+                    $t: "mari43gh@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eilm2"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Marie-Louise Larsen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: marielouiserl, billede: https://www.facebook.com/photo.php?fbid=10219895126594455&set=a.1591910403562&type=3&theater, alder: 23, køn: k, email: mari271m@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eilm2"
+}
+],
+                gsx$navn: {
+                    $t: "Marie-Louise Larsen"
+                },
+                gsx$github: {
+                    $t: "marielouiserl"
+                },
+                gsx$billede: {
+                    $t: "https://www.facebook.com/photo.php?fbid=10219895126594455&set=a.1591910403562&type=3&theater"
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "mari271m@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ek06j"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Martin Bregnhøi"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: martinbregnhoi, billede: https://mabe-kea.dk/martin.jpg, alder: 58, køn: m, email: mabe@kea.dk, hold: a, historie: at sejle er at leve"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ek06j"
+}
+],
+                gsx$navn: {
+                    $t: "Martin Bregnhøi"
+                },
+                gsx$github: {
+                    $t: "martinbregnhoi"
+                },
+                gsx$billede: {
+                    $t: "https://mabe-kea.dk/martin.jpg"
+                },
+                gsx$alder: {
+                    $t: "58"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "mabe@kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "at sejle er at leve"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eleqw"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Mathias Greiff"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: math06j5, alder: 27, køn: m, email: math06j5@stud.kea.dk, hold: b, historie: bff m moli"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eleqw"
+}
+],
+                gsx$navn: {
+                    $t: "Mathias Greiff"
+                },
+                gsx$github: {
+                    $t: "math06j5"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "27"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "math06j5@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: "bff m moli"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/emtbd"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Mathias Licht"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: math06j6, køn: m, email: math06j6@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/emtbd"
+}
+],
+                gsx$navn: {
+                    $t: "Mathias Licht"
+                },
+                gsx$github: {
+                    $t: "math06j6"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: ""
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "math06j6@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eczce"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Mathias Risborg Høyer"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: MathiasRH, alder: 22, køn: m, email: math07j8@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eczce"
+}
+],
+                gsx$navn: {
+                    $t: "Mathias Risborg Høyer"
+                },
+                gsx$github: {
+                    $t: "MathiasRH"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "math07j8@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eedwv"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Mathias Wind Jørgensen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: math06j7, billede: http://mathiaswind.dk/kea/00_introuge/selvportrait.jpg, alder: 25, køn: mand, email: math06j7@stud.kea.dk, hold: a, historie: Ubeskrivelig."
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eedwv"
+}
+],
+                gsx$navn: {
+                    $t: "Mathias Wind Jørgensen"
+                },
+                gsx$github: {
+                    $t: "math06j7"
+                },
+                gsx$billede: {
+                    $t: "http://mathiaswind.dk/kea/00_introuge/selvportrait.jpg"
+                },
+                gsx$alder: {
+                    $t: "25"
+                },
+                gsx$køn: {
+                    $t: "mand"
+                },
+                gsx$email: {
+                    $t: "math06j7@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "Ubeskrivelig."
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/efsh8"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Mike Nicolaj Mørch Hansen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: mike6316, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/67056212_10219423144310711_3426563400245706752_n.jpg?_nc_cat=106&_nc_oc=AQlsYXny4KUfUpaWkD3ZCnGR-u4bQ9YLKkq2nVOkiUykorX7hePHSqq3YeYgmEmDhxU&_nc_ht=scontent-frt3-2.xx&oh=1726c0138bab88f276c7ce7b12b3b0be&oe=5DCEB4E1, alder: 25, køn: M, email: mike6316@stud.kea.dk, hold: B"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/efsh8"
+}
+],
+                gsx$navn: {
+                    $t: "Mike Nicolaj Mørch Hansen"
+                },
+                gsx$github: {
+                    $t: "mike6316"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/67056212_10219423144310711_3426563400245706752_n.jpg?_nc_cat=106&_nc_oc=AQlsYXny4KUfUpaWkD3ZCnGR-u4bQ9YLKkq2nVOkiUykorX7hePHSqq3YeYgmEmDhxU&_nc_ht=scontent-frt3-2.xx&oh=1726c0138bab88f276c7ce7b12b3b0be&oe=5DCEB4E1"
+                },
+                gsx$alder: {
+                    $t: "25"
+                },
+                gsx$køn: {
+                    $t: "M"
+                },
+                gsx$email: {
+                    $t: "mike6316@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "B"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eh71p"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Molise Nør Larsen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: Molisemolly, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/12806053_10153932180324330_1981574557630396057_n.jpg?_nc_cat=106&_nc_oc=AQky_Ns1_wpOymwiB61WAKR0dcnAG7qLQ33LzDOhxKf5pDGxtokcZHuGD9oq8qo-Fv8&_nc_ht=scontent-frt3-2.xx&oh=5f4f85834b9492daccf980e24de892b3&oe=5E0E3AEF, alder: 28, køn: k, email: moli0022@stud.kea.dk, hold: b, historie: bff m math, status: y u ask?"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eh71p"
+}
+],
+                gsx$navn: {
+                    $t: "Molise Nør Larsen"
+                },
+                gsx$github: {
+                    $t: "Molisemolly"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/12806053_10153932180324330_1981574557630396057_n.jpg?_nc_cat=106&_nc_oc=AQky_Ns1_wpOymwiB61WAKR0dcnAG7qLQ33LzDOhxKf5pDGxtokcZHuGD9oq8qo-Fv8&_nc_ht=scontent-frt3-2.xx&oh=5f4f85834b9492daccf980e24de892b3&oe=5E0E3AEF"
+                },
+                gsx$alder: {
+                    $t: "28"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "moli0022@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: "bff m math"
+                },
+                gsx$status: {
+                    $t: "y u ask?"
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/etu5e"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Niki Valentin Wacherhausen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: niki1358, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/40325254_10216927901380936_3456625976589418496_o.jpg?_nc_cat=109&_nc_oc=AQlWWZvPfmXKKf9_5p9hwKEG4t9p-gxvKSb-sqoa8FXGrOXPMOXFV6zIZgBC2GoHJ2g&_nc_ht=scontent-frt3-2.xx&oh=bf5bd992a42526af36fcfb1902ce65f0&oe=5DD35F0F, alder: 24, køn: m, email: niki1358@stud.kea.dk, hold: b, historie: You have the same amount of hours in a day as Beyoncé"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/etu5e"
+}
+],
+                gsx$navn: {
+                    $t: "Niki Valentin Wacherhausen"
+                },
+                gsx$github: {
+                    $t: "niki1358"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/40325254_10216927901380936_3456625976589418496_o.jpg?_nc_cat=109&_nc_oc=AQlWWZvPfmXKKf9_5p9hwKEG4t9p-gxvKSb-sqoa8FXGrOXPMOXFV6zIZgBC2GoHJ2g&_nc_ht=scontent-frt3-2.xx&oh=bf5bd992a42526af36fcfb1902ce65f0&oe=5DD35F0F"
+                },
+                gsx$alder: {
+                    $t: "24"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "niki1358@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: "You have the same amount of hours in a day as Beyoncé"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ev8pv"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Nikoline Brink Kjærsgaard"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: niko110j, billede: http://nikolinebrink.dk/kea/00-introuge/selvportraet.jpg, alder: 23, køn: k, email: niko110j@stud.kea.dk, hold: A"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ev8pv"
+}
+],
+                gsx$navn: {
+                    $t: "Nikoline Brink Kjærsgaard"
+                },
+                gsx$github: {
+                    $t: "niko110j"
+                },
+                gsx$billede: {
+                    $t: "http://nikolinebrink.dk/kea/00-introuge/selvportraet.jpg"
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "niko110j@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "A"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ewna8"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Nitiya Gawnampeth Udnun Lihn"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: nita0018, alder: 23, køn: K, email: nitiyalihn@gmail.com"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ewna8"
+}
+],
+                gsx$navn: {
+                    $t: "Nitiya Gawnampeth Udnun Lihn"
+                },
+                gsx$github: {
+                    $t: "nita0018"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "K"
+                },
+                gsx$email: {
+                    $t: "nitiyalihn@gmail.com"
+                },
+                gsx$hold: {
+                    $t: ""
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ey1up"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Oscar Nielsen Bagger"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: oscarbagger, billede: http://oscarbagger.dk/kea/00_introuge/selvportraet.jpeg, alder: 23, køn: m, email: osca0802@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ey1up"
+}
+],
+                gsx$navn: {
+                    $t: "Oscar Nielsen Bagger"
+                },
+                gsx$github: {
+                    $t: "oscarbagger"
+                },
+                gsx$billede: {
+                    $t: "http://oscarbagger.dk/kea/00_introuge/selvportraet.jpeg"
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "osca0802@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eo7vq"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Patrick Stormly Raben"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: patr984e, billede: :-), alder: 26, køn: m, email: patr984e@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/eo7vq"
+}
+],
+                gsx$navn: {
+                    $t: "Patrick Stormly Raben"
+                },
+                gsx$github: {
+                    $t: "patr984e"
+                },
+                gsx$billede: {
+                    $t: ":-)"
+                },
+                gsx$alder: {
+                    $t: "26"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "patr984e@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/epmg7"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Peter Møller Jensen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: Pete04h3, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/20953892_10213502341251151_436790567353646279_n.jpg?_nc_cat=108&_nc_oc=AQlyBKsjAWCQeDKpEsxwuDQheH49elBpQ9xT8Degzu3Q4T6w0oDfU1IWObaoKBMEDJ0&_nc_ht=scontent-frt3-2.xx&oh=30d32a0ec01332461fb1bba3ade5a376&oe=5E0752AB, alder: 29, køn: M, email: pete04h3@stud.kea.dk, hold: a, historie: #nocomment"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/epmg7"
+}
+],
+                gsx$navn: {
+                    $t: "Peter Møller Jensen"
+                },
+                gsx$github: {
+                    $t: "Pete04h3"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/20953892_10213502341251151_436790567353646279_n.jpg?_nc_cat=108&_nc_oc=AQlyBKsjAWCQeDKpEsxwuDQheH49elBpQ9xT8Degzu3Q4T6w0oDfU1IWObaoKBMEDJ0&_nc_ht=scontent-frt3-2.xx&oh=30d32a0ec01332461fb1bba3ade5a376&oe=5E0752AB"
+                },
+                gsx$alder: {
+                    $t: "29"
+                },
+                gsx$køn: {
+                    $t: "M"
+                },
+                gsx$email: {
+                    $t: "pete04h3@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "#nocomment"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/er10k"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Rachel Vo"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: rachelhdvo0727, billede: http://vo-consult.com/kea/00-introuge/selvportraet.jpeg, alder: 28, køn: k, email: rach0727@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/er10k"
+}
+],
+                gsx$navn: {
+                    $t: "Rachel Vo"
+                },
+                gsx$github: {
+                    $t: "rachelhdvo0727"
+                },
+                gsx$billede: {
+                    $t: "http://vo-consult.com/kea/00-introuge/selvportraet.jpeg"
+                },
+                gsx$alder: {
+                    $t: "28"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "rach0727@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/esfl1"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Rani Krett á Borg"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: raniaborg, alder: 31, køn: m, email: rani0413@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/esfl1"
+}
+],
+                gsx$navn: {
+                    $t: "Rani Krett á Borg"
+                },
+                gsx$github: {
+                    $t: "raniaborg"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "31"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "rani0413@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a59y2"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Rasmus Andersen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: rasm8041, billede: https://www.facebook.com/photo.php?fbid=10218068249566588&set=a.1607584438320&type=3&theater, alder: 25, køn: m, email: rasm8041@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a59y2"
+}
+],
+                gsx$navn: {
+                    $t: "Rasmus Andersen"
+                },
+                gsx$github: {
+                    $t: "rasm8041"
+                },
+                gsx$billede: {
+                    $t: "https://www.facebook.com/photo.php?fbid=10218068249566588&set=a.1607584438320&type=3&theater"
+                },
+                gsx$alder: {
+                    $t: "25"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "rasm8041@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a6oij"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Rasmus Smedegaard Andersen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: rasmussmedegaard, billede: http://rasmussmedegaard.dk/kea/00-introuge/selvportraet.jpg, alder: 22, køn: m, email: rasm55f7@stud.kea.dk, hold: a, status: alene"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a6oij"
+}
+],
+                gsx$navn: {
+                    $t: "Rasmus Smedegaard Andersen"
+                },
+                gsx$github: {
+                    $t: "rasmussmedegaard"
+                },
+                gsx$billede: {
+                    $t: "http://rasmussmedegaard.dk/kea/00-introuge/selvportraet.jpg"
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "rasm55f7@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: "alene"
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a832w"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Rasmus Svalebæk"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: Amudski, alder: 30, køn: m, email: rasm500x@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a832w"
+}
+],
+                gsx$navn: {
+                    $t: "Rasmus Svalebæk"
+                },
+                gsx$github: {
+                    $t: "Amudski"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "30"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "rasm500x@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a9hnd"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Rebecca Helene Nylin"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: rebeccanylin, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/35267157_10214468330596131_4382469515124932608_n.jpg?_nc_cat=107&_nc_oc=AQnKzSmAcXYoXDfA8T1SuxyalYLP1GHOGYaZr-2zY_QgGjkNE0A4ePTYHMBA6RasjJY&_nc_ht=scontent-frt3-2.xx&oh=5d8eb7f03e2df319863c3cc56b6f44ec&oe=5DD099F3, alder: 23, køn: K, email: rebe6581@stud.kea.dk, hold: a, historie: giv mig et job"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a9hnd"
+}
+],
+                gsx$navn: {
+                    $t: "Rebecca Helene Nylin"
+                },
+                gsx$github: {
+                    $t: "rebeccanylin"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/35267157_10214468330596131_4382469515124932608_n.jpg?_nc_cat=107&_nc_oc=AQnKzSmAcXYoXDfA8T1SuxyalYLP1GHOGYaZr-2zY_QgGjkNE0A4ePTYHMBA6RasjJY&_nc_ht=scontent-frt3-2.xx&oh=5d8eb7f03e2df319863c3cc56b6f44ec&oe=5DD099F3"
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "K"
+                },
+                gsx$email: {
+                    $t: "rebe6581@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "giv mig et job"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/9znoe"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Richard Andersen Salcedo"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: rich1568, alder: 24, køn: m, email: rich1568@stud.kea.dk, hold: A"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/9znoe"
+}
+],
+                gsx$navn: {
+                    $t: "Richard Andersen Salcedo"
+                },
+                gsx$github: {
+                    $t: "rich1568"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "24"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "rich1568@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "A"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a128v"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Rune Skovholm"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: Rune7766, billede: http://orangeduck.dk/kea/00-introuge/selvportraet.jpeg, alder: 29, køn: m, email: rune7766@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a128v"
+}
+],
+                gsx$navn: {
+                    $t: "Rune Skovholm"
+                },
+                gsx$github: {
+                    $t: "Rune7766"
+                },
+                gsx$billede: {
+                    $t: "http://orangeduck.dk/kea/00-introuge/selvportraet.jpeg"
+                },
+                gsx$alder: {
+                    $t: "29"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "rune7766@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a2gt8"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Sami Vardar"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: Samilius, billede: http://samivardar.dk/kea/literallydead.jpg, alder: 19, køn: M, email: samieriksen@hotmail.com, hold: A, historie: "
+                    After all this time ? Always.
+                    ""
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a2gt8"
+}
+],
+                gsx$navn: {
+                    $t: "Sami Vardar"
+                },
+                gsx$github: {
+                    $t: "Samilius"
+                },
+                gsx$billede: {
+                    $t: "http://samivardar.dk/kea/literallydead.jpg"
+                },
+                gsx$alder: {
+                    $t: "19"
+                },
+                gsx$køn: {
+                    $t: "M"
+                },
+                gsx$email: {
+                    $t: "samieriksen@hotmail.com"
+                },
+                gsx$hold: {
+                    $t: "A"
+                },
+                gsx$historie: {
+                    $t: ""
+                    After all this time ? Always.
+                    ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a3vdp"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Sara Bitten Heberg"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: bitten 94, billede: http://bittenbybeauty.dk/kea/00-introuge/selvportraet.jpg, alder: 24, køn: K, email: sara815f@stud.kea.dk, hold: A"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/a3vdp"
+}
+],
+                gsx$navn: {
+                    $t: "Sara Bitten Heberg"
+                },
+                gsx$github: {
+                    $t: "bitten 94"
+                },
+                gsx$billede: {
+                    $t: "http://bittenbybeauty.dk/kea/00-introuge/selvportraet.jpg"
+                },
+                gsx$alder: {
+                    $t: "24"
+                },
+                gsx$køn: {
+                    $t: "K"
+                },
+                gsx$email: {
+                    $t: "sara815f@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "A"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/agihe"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Sille Hvedehave"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: sill2673, billede: https://www.facebook.com/photo.php?fbid=10208614118203407&set=a.1457734756366&type=3&theater, alder: 22, køn: k, email: sill2673@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/agihe"
+}
+],
+                gsx$navn: {
+                    $t: "Sille Hvedehave"
+                },
+                gsx$github: {
+                    $t: "sill2673"
+                },
+                gsx$billede: {
+                    $t: "https://www.facebook.com/photo.php?fbid=10208614118203407&set=a.1457734756366&type=3&theater"
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "sill2673@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ahx1v"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Stine Pindbo Andersen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: stin1208, billede: https://www.facebook.com/stine.p.andersen.5, alder: 22, køn: k, email: stin434j@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ahx1v"
+}
+],
+                gsx$navn: {
+                    $t: "Stine Pindbo Andersen"
+                },
+                gsx$github: {
+                    $t: "stin1208"
+                },
+                gsx$billede: {
+                    $t: "https://www.facebook.com/stine.p.andersen.5"
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "stin434j@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ajbm8"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Subangi Vasantharajan"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: suba0107, billede: http://subangi.dk/kea/01-web/02-html/01_02_01_visitkort/selvportraet.jpg, alder: 22, køn: k, email: suba0107@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/ajbm8"
+}
+],
+                gsx$navn: {
+                    $t: "Subangi Vasantharajan"
+                },
+                gsx$github: {
+                    $t: "suba0107"
+                },
+                gsx$billede: {
+                    $t: "http://subangi.dk/kea/01-web/02-html/01_02_01_visitkort/selvportraet.jpg"
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "suba0107@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/akq6p"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Søren Vindfelt Røn"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: SoerenRoen, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/37576597_10214215906984882_7051225028783767552_n.jpg?_nc_cat=110&_nc_oc=AQl9kJOnoalUKUsBurjKYM68mV0aa4tpMevryfNs3hxyUaibdg6fvCdBpNSGescAR9A&_nc_ht=scontent-frt3-2.xx&oh=88d00d86fc9e14827c5c963ba20d4006&oe=5E0D923E, alder: 23, køn: N/A, email: vindfelt96@gmail.com, hold: a, historie: Jay Z: It's hot!, status: He be hungry !"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/akq6p"
+}
+],
+                gsx$navn: {
+                    $t: "Søren Vindfelt Røn"
+                },
+                gsx$github: {
+                    $t: "SoerenRoen"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/37576597_10214215906984882_7051225028783767552_n.jpg?_nc_cat=110&_nc_oc=AQl9kJOnoalUKUsBurjKYM68mV0aa4tpMevryfNs3hxyUaibdg6fvCdBpNSGescAR9A&_nc_ht=scontent-frt3-2.xx&oh=88d00d86fc9e14827c5c963ba20d4006&oe=5E0D923E"
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "N/A"
+                },
+                gsx$email: {
+                    $t: "vindfelt96@gmail.com"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "Jay Z: It's hot!"
+                },
+                gsx$status: {
+                    $t: "He be hungry !"
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/aaw7q"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Theo Palshøj Bigum"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: TheoBigum, alder: 22, køn: m, email: theobigum@gmail.com, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/aaw7q"
+}
+],
+                gsx$navn: {
+                    $t: "Theo Palshøj Bigum"
+                },
+                gsx$github: {
+                    $t: "TheoBigum"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "theobigum@gmail.com"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/acas7"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Toni Anh Quoc Nguyen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: toni-aqn, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/21768162_10214925299670537_5889669475465680983_n.jpg?_nc_cat=110&_nc_oc=AQndcLsatEiYih0_n5GcxOEKcwhlF64ngwWruIvZ9mXU02574SRNufR4DRj1ewCGh7s&_nc_ht=scontent-frt3-2.xx&oh=bbb6d8c9471db7f0857d0e89a05ed5f3&oe=5E0F1C92, alder: 26, køn: m, email: toni0040@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/acas7"
+}
+],
+                gsx$navn: {
+                    $t: "Toni Anh Quoc Nguyen"
+                },
+                gsx$github: {
+                    $t: "toni-aqn"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/21768162_10214925299670537_5889669475465680983_n.jpg?_nc_cat=110&_nc_oc=AQndcLsatEiYih0_n5GcxOEKcwhlF64ngwWruIvZ9mXU02574SRNufR4DRj1ewCGh7s&_nc_ht=scontent-frt3-2.xx&oh=bbb6d8c9471db7f0857d0e89a05ed5f3&oe=5E0F1C92"
+                },
+                gsx$alder: {
+                    $t: "26"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "toni0040@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/adpck"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Ulrikke Weidemann"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: ulri2307, billede: https://www.facebook.com/photo.php?fbid=10216538152024257&set=a.1635080314851&type=3&theater, alder: 24, køn: k, email: ulri2307@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/adpck"
+}
+],
+                gsx$navn: {
+                    $t: "Ulrikke Weidemann"
+                },
+                gsx$github: {
+                    $t: "ulri2307"
+                },
+                gsx$billede: {
+                    $t: "https://www.facebook.com/photo.php?fbid=10216538152024257&set=a.1635080314851&type=3&theater"
+                },
+                gsx$alder: {
+                    $t: "24"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "ulri2307@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/af3x1"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Veronika Petersen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: vero1096, billede: https://www.facebook.com/photo.php?fbid=939408119414766&set=a.149504361738483&type=3&theater, alder: 25, køn: k, email: vero1096@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/af3x1"
+}
+],
+                gsx$navn: {
+                    $t: "Veronika Petersen"
+                },
+                gsx$github: {
+                    $t: "vero1096"
+                },
+                gsx$billede: {
+                    $t: "https://www.facebook.com/photo.php?fbid=939408119414766&set=a.149504361738483&type=3&theater"
+                },
+                gsx$alder: {
+                    $t: "25"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "vero1096@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/arr0q"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Victor Borgen Hansen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: vict889f, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/55587677_10218970190591568_3561660707483156480_o.jpg?_nc_cat=103&_nc_oc=AQkM5hZzSMyeNWQNjuw_CdGA6AEjsojtYvs-wgLL1SYQsqo1cRaFplugVDAT0_RyEhA&_nc_ht=scontent-frt3-2.xx&oh=570b679c98ec2f8c10181d0ffcbd7cb6&oe=5E0E9588, alder: 24, køn: Mand, email: vict889f@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/arr0q"
+}
+],
+                gsx$navn: {
+                    $t: "Victor Borgen Hansen"
+                },
+                gsx$github: {
+                    $t: "vict889f"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/55587677_10218970190591568_3561660707483156480_o.jpg?_nc_cat=103&_nc_oc=AQkM5hZzSMyeNWQNjuw_CdGA6AEjsojtYvs-wgLL1SYQsqo1cRaFplugVDAT0_RyEhA&_nc_ht=scontent-frt3-2.xx&oh=570b679c98ec2f8c10181d0ffcbd7cb6&oe=5E0E9588"
+                },
+                gsx$alder: {
+                    $t: "24"
+                },
+                gsx$køn: {
+                    $t: "Mand"
+                },
+                gsx$email: {
+                    $t: "vict889f@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/at5l7"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Victor Øbro Bucholdtz"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: vict889f, alder: 21, køn: m, email: vict889f@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/at5l7"
+}
+],
+                gsx$navn: {
+                    $t: "Victor Øbro Bucholdtz"
+                },
+                gsx$github: {
+                    $t: "vict889f"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "21"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "vict889f@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/auk5k"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Viktor Friis Kjeldal"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: vikt5485, alder: 21, køn: m, email: vikt5485@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/auk5k"
+}
+],
+                gsx$navn: {
+                    $t: "Viktor Friis Kjeldal"
+                },
+                gsx$github: {
+                    $t: "vikt5485"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "21"
+                },
+                gsx$køn: {
+                    $t: "m"
+                },
+                gsx$email: {
+                    $t: "vikt5485@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/avyq1"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Grethe Brandtzæg"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: gretheB90, billede: https://tinyurl.com/yxw45gxc, alder: 29, køn: k, email: gret3664@stud.kea.dk, hold: a, historie: I draw artz :p, status: i forhold"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/avyq1"
+}
+],
+                gsx$navn: {
+                    $t: "Grethe Brandtzæg"
+                },
+                gsx$github: {
+                    $t: "gretheB90"
+                },
+                gsx$billede: {
+                    $t: "https://tinyurl.com/yxw45gxc"
+                },
+                gsx$alder: {
+                    $t: "29"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "gret3664@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "I draw artz :p"
+                },
+                gsx$status: {
+                    $t: "i forhold"
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/am4r2"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Katja Søgaard"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: katj2950, billede: https://tinyurl.com/y5unwcla, alder: 34, køn: k, email: katj2950@stud.kea.dk, hold: a, historie: Freelance artist, status: single"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/am4r2"
+}
+],
+                gsx$navn: {
+                    $t: "Katja Søgaard"
+                },
+                gsx$github: {
+                    $t: "katj2950"
+                },
+                gsx$billede: {
+                    $t: "https://tinyurl.com/y5unwcla"
+                },
+                gsx$alder: {
+                    $t: "34"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "katj2950@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: "Freelance artist"
+                },
+                gsx$status: {
+                    $t: "single"
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/anjbj"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Fanny Louise Gissel Klintø"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: fannyklintoe, alder: 24, email: fann0496@stud.kea.dk, hold: a"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/anjbj"
+}
+],
+                gsx$navn: {
+                    $t: "Fanny Louise Gissel Klintø"
+                },
+                gsx$github: {
+                    $t: "fannyklintoe"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "24"
+                },
+                gsx$køn: {
+                    $t: ""
+                },
+                gsx$email: {
+                    $t: "fann0496@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "a"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/aoxvw"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Mathias Munk Andersen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: math3197, billede: http://tiny.cc/kxtybz, alder: 25, køn: M, email: math3197@stud.kea.dk, hold: A, historie: Donkey!, status: Donkey!"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/aoxvw"
+}
+],
+                gsx$navn: {
+                    $t: "Mathias Munk Andersen"
+                },
+                gsx$github: {
+                    $t: "math3197"
+                },
+                gsx$billede: {
+                    $t: "http://tiny.cc/kxtybz"
+                },
+                gsx$alder: {
+                    $t: "25"
+                },
+                gsx$køn: {
+                    $t: "M"
+                },
+                gsx$email: {
+                    $t: "math3197@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "A"
+                },
+                gsx$historie: {
+                    $t: "Donkey!"
+                },
+                gsx$status: {
+                    $t: "Donkey!"
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/aqcgd"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Agnes Hellstenius"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: agneshellstenius, alder: 22, køn: K, email: agne4159@stud.kea.dk, hold: A"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/aqcgd"
+}
+],
+                gsx$navn: {
+                    $t: "Agnes Hellstenius"
+                },
+                gsx$github: {
+                    $t: "agneshellstenius"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "22"
+                },
+                gsx$køn: {
+                    $t: "K"
+                },
+                gsx$email: {
+                    $t: "agne4159@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "A"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/b2zk2"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Theodor Skovmand Krummes"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: Theodior, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/11915115_10200890157452959_4188988288212073459_n.jpg?_nc_cat=100&_nc_oc=AQkAJlfmcqFQQMK1TfKt_4q-Iu9Id4F4U-B6qWdtyrj0X4JecGv6jkU3BTpNq9tSSbI&_nc_ht=scontent-frt3-2.xx&oh=a8ba103e3700d03b2e3113eff77167c5&oe=5DC91C87, alder: 20, køn: M, email: Theo0230@stud.kea.dk, hold: A"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/b2zk2"
+}
+],
+                gsx$navn: {
+                    $t: "Theodor Skovmand Krummes"
+                },
+                gsx$github: {
+                    $t: "Theodior"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/11915115_10200890157452959_4188988288212073459_n.jpg?_nc_cat=100&_nc_oc=AQkAJlfmcqFQQMK1TfKt_4q-Iu9Id4F4U-B6qWdtyrj0X4JecGv6jkU3BTpNq9tSSbI&_nc_ht=scontent-frt3-2.xx&oh=a8ba103e3700d03b2e3113eff77167c5&oe=5DC91C87"
+                },
+                gsx$alder: {
+                    $t: "20"
+                },
+                gsx$køn: {
+                    $t: "M"
+                },
+                gsx$email: {
+                    $t: "Theo0230@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "A"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/b4e4j"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Mads Sennov Nybroe"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: Madsolo, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/303103_4454434676122_699005487_n.jpg?_nc_cat=108&_nc_oc=AQkgFzajgs1ftspzyA3fS6AoeClhhEoyvGjcxDuWvh7f-KII9OMzx3fgsQnMgnC65lI&_nc_ht=scontent-frt3-2.xx&oh=1b146235a4c44fe5c6cfc164aaff9dda&oe=5DD456FD, alder: 27, køn: M, email: mads3847@stud.kea.dk, hold: A, historie: Mads giver den gas, sætter damerne på plads"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/b4e4j"
+}
+],
+                gsx$navn: {
+                    $t: "Mads Sennov Nybroe"
+                },
+                gsx$github: {
+                    $t: "Madsolo"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/303103_4454434676122_699005487_n.jpg?_nc_cat=108&_nc_oc=AQkgFzajgs1ftspzyA3fS6AoeClhhEoyvGjcxDuWvh7f-KII9OMzx3fgsQnMgnC65lI&_nc_ht=scontent-frt3-2.xx&oh=1b146235a4c44fe5c6cfc164aaff9dda&oe=5DD456FD"
+                },
+                gsx$alder: {
+                    $t: "27"
+                },
+                gsx$køn: {
+                    $t: "M"
+                },
+                gsx$email: {
+                    $t: "mads3847@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "A"
+                },
+                gsx$historie: {
+                    $t: "Mads giver den gas, sætter damerne på plads"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/b5sow"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Rikke Christiansen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: RikkeC, billede: https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/14947587_10210107195732131_9093544263258962756_n.jpg?_nc_cat=106&_nc_oc=AQneoKHnNJBbHMEQ6dE1OTCsPSGRjhzWFz-PlB8JvkvUxBvuPLmPFuRWU4Xv92M-yMc&_nc_ht=scontent-frt3-2.xx&oh=7032958ca553d81597271e65dbe93153&oe=5E05A055, alder: 26, køn: k, email: Rikk702t@stud.kea.dk, hold: b"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/b5sow"
+}
+],
+                gsx$navn: {
+                    $t: "Rikke Christiansen"
+                },
+                gsx$github: {
+                    $t: "RikkeC"
+                },
+                gsx$billede: {
+                    $t: "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/14947587_10210107195732131_9093544263258962756_n.jpg?_nc_cat=106&_nc_oc=AQneoKHnNJBbHMEQ6dE1OTCsPSGRjhzWFz-PlB8JvkvUxBvuPLmPFuRWU4Xv92M-yMc&_nc_ht=scontent-frt3-2.xx&oh=7032958ca553d81597271e65dbe93153&oe=5E05A055"
+                },
+                gsx$alder: {
+                    $t: "26"
+                },
+                gsx$køn: {
+                    $t: "k"
+                },
+                gsx$email: {
+                    $t: "Rikk702t@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "b"
+                },
+                gsx$historie: {
+                    $t: ""
+                },
+                gsx$status: {
+                    $t: ""
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/b779d"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Malik Grosos"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: mads237p, billede: https://bit.ly/2Hz0NVi, alder: 28, køn: M, email: mads237p@stud.kea.dk, hold: B, historie: Carl Makungo Collective, Best reggae band in town!, status: Modern"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/b779d"
+}
+],
+                gsx$navn: {
+                    $t: "Malik Grosos"
+                },
+                gsx$github: {
+                    $t: "mads237p"
+                },
+                gsx$billede: {
+                    $t: "https://bit.ly/2Hz0NVi"
+                },
+                gsx$alder: {
+                    $t: "28"
+                },
+                gsx$køn: {
+                    $t: "M"
+                },
+                gsx$email: {
+                    $t: "mads237p@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "B"
+                },
+                gsx$historie: {
+                    $t: "Carl Makungo Collective, Best reggae band in town!"
+                },
+                gsx$status: {
+                    $t: "Modern"
+                }
+},
+            {
+                id: {
+                    $t: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/axdae"
+                },
+                updated: {
+                    $t: "2019-08-30T09:13:32.086Z"
+                },
+                category: [
+                    {
+                        scheme: "http://schemas.google.com/spreadsheets/2006",
+                        term: "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+                title: {
+                    type: "text",
+                    $t: "Johan Lund Jansen"
+                },
+                content: {
+                    type: "text",
+                    $t: "github: joha949j, alder: 23, køn: M, email: joha949j@stud.kea.dk, hold: A, historie: CAPPIN"
+                },
+                link: [
+                    {
+                        rel: "self",
+                        type: "application/atom+xml",
+                        href: "https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values/axdae"
+}
+],
+                gsx$navn: {
+                    $t: "Johan Lund Jansen"
+                },
+                gsx$github: {
+                    $t: "joha949j"
+                },
+                gsx$billede: {
+                    $t: ""
+                },
+                gsx$alder: {
+                    $t: "23"
+                },
+                gsx$køn: {
+                    $t: "M"
+                },
+                gsx$email: {
+                    $t: "joha949j@stud.kea.dk"
+                },
+                gsx$hold: {
+                    $t: "A"
+                },
+                gsx$historie: {
+                    $t: "CAPPIN"
+                },
+                gsx$status: {
+                    $t: ""
+                }
+}
+]
+    }
+}
