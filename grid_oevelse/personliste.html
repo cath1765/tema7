@@ -36,6 +36,7 @@
             <p class="køn"></p>
             <p class="hold"></p>
             <p class="historie"></p>
+            <p class="github"></p>
             <p></p>
         </article>
     </template>
@@ -55,7 +56,8 @@
             let response = await fetch("https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values?alt=json");
             console.log(response);
             personarray = await response.json();
-            console.log(personarray);
+            console.log("personarray: " +
+                personarray);
             VisJson();
         }
 
@@ -64,29 +66,23 @@
             const dest = document.querySelector("#liste");
             console.log(temp);
 
-            personarray.forEach((personer, i) => {
+            personarray.feed.entry.forEach((personer, i) => {
                 const klon = temp.cloneNode(true);
                 // console.log(klon);
 
-                klon.querySelector("h2").textContent = personer.navn;
+                klon.querySelector("h2").textContent = personer.gsx$navn.$t;
                 klon.querySelector("h2").setAttribute("id", "personer" + i);
-                klon.querySelector("img").src = personer.billede;
-                klon.querySelector("img").alt = "Billede af " + personer.navn;
-                klon.querySelector(".emil").textContent = `emil: ${personer.emil}`;
-                klon.querySelector(".alder").textContent = `alder: ${personer.alder}`;
-                klon.querySelector(".køn").textContent = `køn: ${personer.køn}`;
-                klon.querySelector(".hold").textContent = `hold: ${personer.hold}`;
-                klon.querySelector(".historie").textContent = `historie: ${personer.historie}`;
+                klon.querySelector("img").src = `${personer.gsx$billede.$t}`;
+                klon.querySelector("img").alt = "Billede af " + personer.gsx$navn.$t;
+                klon.querySelector(".emil").textContent = `email: ${personer.gsx$email.$t}`;
+                klon.querySelector(".alder").textContent = `alder: ${personer.gsx$alder.$t}`;
+                klon.querySelector(".køn").textContent = `køn: ${personer.gsx$køn.$t}`;
+                klon.querySelector(".hold").textContent = `hold: ${personer.gsx$hold.$t}`;
+                klon.querySelector(".historie").textContent = `historie: ${personer.gsx$historie.$t}`;
+                klon.querySelector(".github").textContent = `github: ${personer.gsx$github.$t}`;
 
                 dest.appendChild(klon);
             });
-
-
-
-
-
-
-
 
         }
     </script>
