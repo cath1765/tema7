@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -18,7 +20,6 @@
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
             grid-gap: 1rem;
-
             /*  */
         }
 
@@ -49,14 +50,11 @@
 
     <script>
         let personarray = [];
-
         document.addEventListener("DOMContentLoaded", start);
 
         function start() {
             hentJson();
         }
-
-
         async function hentJson() {
             let response = await fetch("https://spreadsheets.google.com/feeds/list/1Xge7slZ9dEOTCn1Yxl3OE4xgvrXOL8Y_iu3WN1yGB1U/od6/public/values?alt=json");
             console.log(response);
@@ -70,11 +68,9 @@
             const temp = document.querySelector("template").content;
             const dest = document.querySelector("#liste");
             console.log(temp);
-
             personarray.feed.entry.forEach((personer, i) => {
                 const klon = temp.cloneNode(true);
                 // console.log(klon);
-
                 klon.querySelector("h2").textContent = personer.gsx$navn.$t;
                 klon.querySelector("h2").setAttribute("id", "personer" + i);
                 klon.querySelector("img").src = `${personer.gsx$billede.$t}`;
@@ -85,12 +81,12 @@
                 klon.querySelector(".hold").textContent = `hold: ${personer.gsx$hold.$t}`;
                 klon.querySelector(".historie").textContent = `historie: ${personer.gsx$historie.$t}`;
                 klon.querySelector(".github").textContent = `github: ${personer.gsx$github.$t}`;
-
                 dest.appendChild(klon);
             });
-
         }
     </script>
 </body>
 
 </html>
+
+

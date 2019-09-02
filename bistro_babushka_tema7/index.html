@@ -9,25 +9,39 @@
             width: 100%;
         }
 
+        #liste {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            grid-gap: 1em;
+        }
+
+        .retter {
+            padding: 1rem;
+            border: 1px solid;
+        }
     </style>
 </head>
 
 <body>
+    <nav>
+        <button data-mad="alle" class="valgt">alle</button>
+        <button data-mad="f">forretter</button>
+        <button data-mad="h">hovedretter</button>
+        <button data-mad="d">dessert</button>
+        <button data-mad="dv">drikkevarer</button>
 
+    </nav>
     <section id="liste"></section>
     <template>
-        <article class="retter">
+        <article class="ret">
             <h2>Id</h2>
-            <img src="" alt="">
-            <p>kategori</p>
-            <p>navn</p>
-            <p>pris</p>
-            <p>kort</p>
-            <p>lang</p>
-            <p>oprindelse</p>
-
-
-
+            <img src="" alt="" class="profil-billede">
+            <p class="kategori"></p>
+            <p class="navn"></p>
+            <p class="pris"></p>
+            <p class="kort"></p>
+            <p class="lang"></p>
+            <p class="oprindelse"></p>
 
         </article>
     </template>
@@ -35,7 +49,64 @@
 
 
 
-    <script src=""></script>
+    <script>
+        document.addEventListener("DomContentLoaded", start);
+        const url = `https://spreadsheets.google.com/feeds/list/17Dd7DvkPaFamNUdUKlrFgnH6POvBJXac7qyiS6zNRw0/od6/public/values?alt=json`;
+        let retter;
+        let filter = "alle";
+
+        //første funktion der kaldes efter DOM er loaded
+        function start() {
+            console.log(start);
+            const filterKnapper = document.querySelectorAll("button");
+            filterKnapper.forEach(knap => knap.addEventListener("click", filtrerretter));
+            loadData();
+        }
+        //funktioner der filtrerer retter
+        function filtrerretter() {
+            console.log(filtrerretter);
+            filter = this.dataset.mad; // sæt variabel "filter" til aktuel værdi
+            document.querySelector(".valgt").classList.remove("valgt"); // fjern klassen valgt fra aktuel knap
+            this.classList.add("valgt") // marker den nyvalgte knap
+            vis(); // kald funktionen vis igen med nyt filter
+        }
+        //funktioner der henter data fra google sheets
+        async function loadData() {
+            console.log(loadData);
+            const response = await fetch(url);
+            retter = await response.json();
+            vis();
+
+        }
+
+        //funktioner der viser personer i liste view
+        function vis() {
+            const listeElm = document.querySelector("#liste"); // container til articles med retter
+            const skabelon = document.querySelector("template").content; //select indhold af html skabelon (article)
+            console.log(listeElm);
+            dest.textContent = "";
+            retter.feed.entry.forEach(ret => { //// loop igennem json (retter)
+                //filtrer eller vis alle
+                if (ret.gsx$mad.$t == filter || filter == "alle") {
+
+                    const klon = skabelon.cloneNode(true); //HJÆLP!!!!! unexpected taken const.
+
+                    klon.querySelector(".kategori").textContent = ret.gsx$kategori.$t;
+                    klon.querySelector(".navn").textContent = ret.gsx$navn.$t;
+                    klon.querySelector(".pris").textContent = ret.gsx$pris.$t;
+                    klon.querySelector(".kort").textContent = ret.gsx$kort.$t;
+                    klon.querySelector(".lang").textContent = ret.gsx$lang.$t;
+                    klon.querySelector(".oprindelse").textContent = ret.gsx$oprindelse.$t;
+                    klon.querySelector(".profil-billede").src = ret.gsx$billede.$t;
+                    dest.appendChild(klon);
+
+                }
+
+
+            })
+
+        }
+    </script>
 </body>
 
 </html>
