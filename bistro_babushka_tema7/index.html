@@ -4,6 +4,8 @@
 <head>
     <meta charset="utf-8">
     <title>Babushka</title>
+
+    <!--*** CSS starter-->
     <style>
         article img {
             width: 100%;
@@ -20,6 +22,9 @@
             border: 1px solid;
         }
     </style>
+
+    <!--*** HTML starter-->
+
 </head>
 
 <body>
@@ -31,10 +36,11 @@
         <button data-mad="dv">drikkevarer</button>
 
     </nav>
-    <section id="liste"></section>
+    <main>
+        <section id="liste"></section>
+    </main>
     <template>
-        <article class="ret">
-            <h2>Id</h2>
+        <article>
             <img src="" alt="" class="profil-billede">
             <p class="kategori"></p>
             <p class="navn"></p>
@@ -48,16 +54,16 @@
 
 
 
-
+    <!--*** javascript starter-->
     <script>
-        document.addEventListener("DomContentLoaded", start);
+        document.addEventListener("DOMContentLoaded", start);
         const url = `https://spreadsheets.google.com/feeds/list/17Dd7DvkPaFamNUdUKlrFgnH6POvBJXac7qyiS6zNRw0/od6/public/values?alt=json`;
         let retter;
         let filter = "alle";
 
-        //første funktion der kaldes efter DOM er loaded
+        //første funktion der kaldes efter DOM er loaded, start-filtrerknapper.
         function start() {
-            console.log(start);
+            console.log("start");
             const filterKnapper = document.querySelectorAll("button");
             filterKnapper.forEach(knap => knap.addEventListener("click", filtrerretter));
             loadData();
@@ -70,9 +76,11 @@
             this.classList.add("valgt") // marker den nyvalgte knap
             vis(); // kald funktionen vis igen med nyt filter
         }
-        //funktioner der henter data fra google sheets
+
+
+        //funktioner der henter data fra google sheets HJÆLPP.
         async function loadData() {
-            console.log(loadData);
+            console.log("loadData");
             const response = await fetch(url);
             retter = await response.json();
             vis();
@@ -81,15 +89,14 @@
 
         //funktioner der viser personer i liste view
         function vis() {
-            const listeElm = document.querySelector("#liste"); // container til articles med retter
-            const skabelon = document.querySelector("template").content; //select indhold af html skabelon (article)
-            console.log(listeElm);
+            const temp = document.querySelector("template").content; // container til articles med retter
+            const dest = document.querySelector("#liste"); //select indhold af html skabelon (article)
             dest.textContent = "";
             retter.feed.entry.forEach(ret => { //// loop igennem json (retter)
                 //filtrer eller vis alle
-                if (ret.gsx$mad.$t == filter || filter == "alle") {
+                if (ret.gsx$kategori.$t == filter || filter == "alle") {
 
-                    const klon = skabelon.cloneNode(true); //HJÆLP!!!!! unexpected taken const.
+                    const klon = temp.cloneNode(true);
 
                     klon.querySelector(".kategori").textContent = ret.gsx$kategori.$t;
                     klon.querySelector(".navn").textContent = ret.gsx$navn.$t;
@@ -97,7 +104,7 @@
                     klon.querySelector(".kort").textContent = ret.gsx$kort.$t;
                     klon.querySelector(".lang").textContent = ret.gsx$lang.$t;
                     klon.querySelector(".oprindelse").textContent = ret.gsx$oprindelse.$t;
-                    klon.querySelector(".profil-billede").src = ret.gsx$billede.$t;
+                    klon.querySelector(".profil-billede").src = "/imgs/small" + ret.gsx$billede.$t + "-sm.jpeg";
                     dest.appendChild(klon);
 
                 }
