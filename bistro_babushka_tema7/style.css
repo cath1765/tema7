@@ -1,0 +1,133 @@
+@font-face {
+    /*font-family: 'Conv_Goldoni_DEMO';*/
+    font-family: 'Goldoni';
+    src: url('Goldoni.ttf.woff') format('woff'),
+        url('Goldoni.ttf.svg#Goldoni') format('svg'),
+        url('Goldoni.ttf.eot'),
+        url('Goldoni.ttf.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+article img {
+    width: 100%;
+}
+
+#liste {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 1em;
+}
+
+.retter {
+    padding: 1rem;
+    border: 1px solid;
+}
+
+.disktop_logo {
+    display: none;
+}
+
+nav button {
+    font-weight: 400;
+    font-size: 14px;
+    width: 15%;
+    padding: 10px;
+    margin: 25px;
+    margin-bottom: 3%;
+    border: 0;
+    background-color: #ff7862;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+
+article {
+    margin: 2px;
+    padding: 1rem;
+    border: 1px solid #f4f4f4;
+    background-color: #f8f2f2;
+}
+
+.kategori {
+    margin: 10px;
+    border: 1px solid #f4f4f4;
+}
+
+.navn {
+    padding: 0px 10px;
+    text-align: center;
+    margin: 10px 0px 5px 0px;
+
+}
+
+.imgs {
+    box-shadow: 0px 0px 15px 0px rgba(179, 179, 179, 1);
+    width: 100%;
+}
+
+.pris {
+    padding: 0px 10px;
+    margin: 0;
+    font-size: 30px;
+    font-weight: 700;
+    color: #ff7862;
+    text-align: right;
+}
+
+.disktop_logo {
+    width: 25%;
+    margin: 0% 40%;
+    display: block;
+
+}
+
+
+
+
+.velkommen_img {
+    display: none;
+}
+
+#velkommen {
+    padding: 40px 0px;
+    /* The image used */
+    background-image: url(suppe.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* Set a specific height */
+    height: 272px !important;
+
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#velkommen h1 {
+    letter-spacing: 1px;
+    font-size: 40px;
+    text-shadow: 1px 1px 5px rgba(255, 255, 255, 1);
+    text-align: center;
+}
+
+.velkommen_p {
+    width: 45vw;
+    margin: 1em;
+}
+
+.velkommen_kasse {
+    margin: 0 auto;
+    width: 50%;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 30px 0px;
+    box-shadow: 0px 0px 15px 0px rgba(56, 56, 56, 1);
+    text-align: center;
+}

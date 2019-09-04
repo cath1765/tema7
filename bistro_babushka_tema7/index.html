@@ -3,29 +3,29 @@
 
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Babushka</title>
+    <link href="https://fonts.googleapis.com/css?family=Arapey" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 
-    <!--*** CSS starter-->
-    <style>
-        article img {
-            width: 100%;
-        }
-
-        #liste {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            grid-gap: 1em;
-        }
-
-        .retter {
-            padding: 1rem;
-            border: 1px solid;
-        }
-    </style>
 
     <!--*** HTML starter-->
 
 </head>
+<header>
+    <img class="disktop_logo" src="displaylogo.png" alt="bistro babushka logo">
+
+
+    <div id="velkommen">
+        <div class="velkommen_kasse">
+            <img class="velkommen_img" src="suppe.jpeg" alt="Russisk ret">
+            <h1>Velkommen</h1>
+            <p class="velkommen_p">Kæmpe udvalg af hjemmelavet russiske retter, Levering lige til døren, Bestil nemt og hurtigt. Bistro Babushka er en unik take away restaurant, der ikke ligner alle de andre. Vi går meget op i kvalitet og at alt vores mad er hjemmelavet. Vi tager dig med på en rejse til Rusland, og det er helt ikke ikke din sidste rejse hertil. </p>
+
+        </div>
+    </div>
+</header>
 
 <body>
     <nav>
@@ -64,7 +64,7 @@
         //første funktion der kaldes efter DOM er loaded, start-filtrerknapper.
         function start() {
             console.log("start");
-            const filterKnapper = document.querySelectorAll("button");
+            const filterKnapper = document.querySelectorAll(" nav button");
             filterKnapper.forEach(knap => knap.addEventListener("click", filtrerretter));
             loadData();
         }
@@ -105,6 +105,7 @@
                     klon.querySelector(".lang").textContent = ret.gsx$lang.$t;
                     klon.querySelector(".oprindelse").textContent = ret.gsx$oprindelse.$t;
                     klon.querySelector(".profil-billede").src = "/imgs/small" + ret.gsx$billede.$t + "-sm.jpeg";
+                    klon.querySelector(".profil-billede").alt = "/imgs/small" + ret.gsx$billede.$t + "-sm.jpeg";
                     dest.appendChild(klon);
 
                 }
@@ -113,6 +114,7 @@
             })
 
         }
+
     </script>
 </body>
 
