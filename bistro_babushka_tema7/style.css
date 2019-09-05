@@ -26,11 +26,13 @@ nav button {
     margin-left: 3rem;
     margin-bottom: 3%;
     border: 0;
-    background-color: #ff7862;
     cursor: pointer;
     text-transform: uppercase;
     align-items: center;
+    border: 2px solid red;
+
 }
+
 
 
 article {
@@ -68,7 +70,7 @@ article {
 
 .disktop_logo {
     width: 20%;
-    margin: 0% 35%;
+    margin: 0% 40%;
     display: block;
 
 }
