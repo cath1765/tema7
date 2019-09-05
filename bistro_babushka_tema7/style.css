@@ -34,7 +34,6 @@ nav button {
 }
 
 
-
 article {
     margin: 2px;
     padding: 1rem;
@@ -83,6 +82,7 @@ article {
     width: 100vw;
     height: 100vh;
     background-color: antiquewhite;
+    overflow: scroll;
 }
 
 

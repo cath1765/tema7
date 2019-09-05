@@ -27,23 +27,27 @@
     </nav>
     <main>
         <section id="liste"></section>
+
         <section id="detalje">
             <article class="person">
                 <button class="luk">✖️</button>
                 <h2></h2>
                 <img src="" alt="">
-
+                <p class="kategori"></p>
+                <p class="navn"></p>
+                <p class="lang"></p>
+                <p class="oprindelse"></p>
+                <p class="pris"></p>
             </article>
         </section>
     </main>
+
     <template>
         <article class="person">
             <img src="" alt="" class="profil-billede">
             <p class="kategori"></p>
             <p class="navn"></p>
             <p class="kort"></p>
-            <p class="lang"></p>
-            <p class="oprindelse"></p>
             <p class="pris"></p>
 
         </article>
@@ -107,8 +111,6 @@
                     klon.querySelector(".navn").textContent = ret.gsx$navn.$t;
                     klon.querySelector(".pris").textContent = ret.gsx$pris.$t;
                     klon.querySelector(".kort").textContent = ret.gsx$kort.$t;
-                    klon.querySelector(".lang").textContent = ret.gsx$lang.$t;
-                    klon.querySelector(".oprindelse").textContent = ret.gsx$oprindelse.$t;
                     klon.querySelector(".profil-billede").src = "/imgs/small/" + ret.gsx$billede.$t + "-sm.jpg";
                     klon.querySelector(".profil-billede").alt = ret.gsx$billede.$t;
                     klon.querySelector(".person").addEventListener("click", () => {
@@ -127,9 +129,12 @@
             console.log(document.querySelector("#detalje"));
             document.querySelector("#detalje").style.display = "block";
             document.querySelector("#detalje .luk").addEventListener("click", skjulDetalje);
-            document.querySelector("#detalje h2 ").textContent = ret.gsx$navn.$t;
-            document.querySelector("#detalje img").src = "/imgs/small/" + ret.gsx$billede.$t + "-sm.jpg";
+            document.querySelector("#detalje h2").textContent = ret.gsx$navn.$t;
+            document.querySelector(".lang").textContent = ret.gsx$lang.$t;
+            document.querySelector(".oprindelse").textContent = ret.gsx$oprindelse.$t;
+            document.querySelector("#detalje img").src = "/imgs/large/" + ret.gsx$billede.$t + ".jpg";
             document.querySelector("#detalje img").alt `billede af ${ret.gsx$billede.$t}`;
+            document.querySelector("#detalje h2").textContent = ret.gsx$lang.$t;
         }
 
         function skjulDetalje() {
