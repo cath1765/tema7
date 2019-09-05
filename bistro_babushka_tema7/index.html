@@ -28,10 +28,10 @@
 <body>
     <nav>
         <button data-mad="alle" class="valgt">alle</button>
-        <button data-mad="f">forretter</button>
-        <button data-mad="h">hovedretter</button>
-        <button data-mad="d">desserter</button>
-        <button data-mad="dv">drikkevarer</button>
+        <button data-mad="forretter">forretter</button>
+        <button data-mad="hovedretter">hovedretter</button>
+        <button data-mad="desserter">desserter</button>
+        <button data-mad="drikkevarer">drikkevarer</button>
 
     </nav>
     <main>
@@ -87,6 +87,7 @@
 
         //funktioner der viser personer i liste view
         function vis() {
+            console.log(filter);
             const temp = document.querySelector("template").content; // container til articles med retter
             const dest = document.querySelector("#liste"); //select indhold af html skabelon (article)
             dest.textContent = "";
@@ -102,7 +103,7 @@
                     klon.querySelector(".kort").textContent = ret.gsx$kort.$t;
                     klon.querySelector(".lang").textContent = ret.gsx$lang.$t;
                     klon.querySelector(".oprindelse").textContent = ret.gsx$oprindelse.$t;
-                    klon.querySelector(".profil-billede").src = "/imgs/small" + ret.gsx$billede.$t + "-sm.jpeg";
+                    klon.querySelector(".profil-billede").src = "/imgs/small/" + ret.gsx$billede.$t + "-sm.jpeg";
                     klon.querySelector(".profil-billede").alt = "/imgs/small" + ret.gsx$billede.$t + "-sm.jpeg";
                     dest.appendChild(klon);
 

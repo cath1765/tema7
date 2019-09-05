@@ -65,11 +65,10 @@
         let personarray = [];
         let filter = "alle";
         document.addEventListener("DOMContentLoaded", start);
-        const filterknapper = document.querySelectorAll("button");
 
         //første funktion kaldes når DOM er loaded
         function start() {
-
+            const filterknapper = document.querySelectorAll("button");
             filterknapper.forEach(knap => knap.addEventListener("click", filterpersoner));
             hentJson();
 
