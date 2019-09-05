@@ -4,7 +4,7 @@ article img {
 
 #liste {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 1em;
 }
 
@@ -74,47 +74,28 @@ article {
 }
 
 
-
-
-.velkommen_img {
-    display: none;
+#detalje {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: antiquewhite;
 }
 
-#velkommen {
-    padding: 40px 0px;
-    /* The image used */
-    background-image: url(suppe.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
 
-    /* Set a specific height */
-    height: 272px !important;
-
-
-    /* Create the parallax scrolling effect */
-    /*background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;*/
+#detalje .luk {
+    position: fixed;
+    top: 0;
+    right: 0;
+    font-size: 4rem;
 }
 
-#velkommen h1 {
-    letter-spacing: 1px;
-    font-size: 40px;
-    text-shadow: 1px 1px 5px rgba(255, 255, 255, 1);
-    text-align: center;
-}
+#detalje .person {
+    width: 60vw;
+    min-height: 50vh;
+    margin: 4rem auto;
+    padding: 4rem;
+    background: white;
 
-.velkommen_p {
-    width: 45vw;
-    margin: 1em;
-}
-
-.velkommen_kasse {
-    margin: 0 auto;
-    width: 50%;
-    background: rgba(255, 255, 255, 0.7);
-    padding: 30px 0px;
-    box-shadow: 0px 0px 15px 0px rgba(56, 56, 56, 1);
-    text-align: center;
 }

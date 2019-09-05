@@ -14,15 +14,6 @@
 <header>
     <img class="disktop_logo" src="displaylogo.png" alt="bistro babushka logo">
 
-
-    <div id="velkommen">
-        <div class="velkommen_kasse">
-            <img class="velkommen_img" src="suppe.jpeg" alt="Russisk ret">
-            <h1>Velkommen</h1>
-            <p class="velkommen_p">Kæmpe udvalg af hjemmelavet russiske retter, Levering lige til døren, Bestil nemt og hurtigt. Bistro Babushka er en unik take away restaurant, der ikke ligner alle de andre. Vi går meget op i kvalitet og at alt vores mad er hjemmelavet. Vi tager dig med på en rejse til Rusland, og det er helt ikke ikke din sidste rejse hertil. </p>
-
-        </div>
-    </div>
 </header>
 
 <body>
@@ -36,16 +27,24 @@
     </nav>
     <main>
         <section id="liste"></section>
+        <section id="detalje">
+            <article class="person">
+                <button class="luk">✖️</button>
+                <h2></h2>
+                <img src="" alt="">
+
+            </article>
+        </section>
     </main>
     <template>
-        <article>
+        <article class="person">
             <img src="" alt="" class="profil-billede">
             <p class="kategori"></p>
             <p class="navn"></p>
-            <p class="pris"></p>
             <p class="kort"></p>
             <p class="lang"></p>
             <p class="oprindelse"></p>
+            <p class="pris"></p>
 
         </article>
     </template>
@@ -65,10 +64,11 @@
             const filterKnapper = document.querySelectorAll(" nav button");
             filterKnapper.forEach(knap => knap.addEventListener("click", filtrerretter));
             loadData();
+            skjulDetalje();
         }
         //funktioner der filtrerer retter
         function filtrerretter() {
-            console.log(filtrerretter);
+            console.log("filtrerretter");
             filter = this.dataset.mad; // sæt variabel "filter" til aktuel værdi
             document.querySelector(".valgt").classList.remove("valgt"); // fjern klassen valgt fra aktuel knap
             this.classList.add("valgt") // marker den nyvalgte knap
@@ -81,21 +81,27 @@
             console.log("loadData");
             const response = await fetch(url);
             retter = await response.json();
+            console.log(retter);
             vis();
 
         }
 
         //funktioner der viser personer i liste view
         function vis() {
-            console.log(filter);
+            console.log("vis");
             const temp = document.querySelector("template").content; // container til articles med retter
             const dest = document.querySelector("#liste"); //select indhold af html skabelon (article)
+
             dest.textContent = "";
+
+
             retter.feed.entry.forEach(ret => { //// loop igennem json (retter)
                 //filtrer eller vis alle
+
                 if (ret.gsx$kategori.$t == filter || filter == "alle") {
 
                     const klon = temp.cloneNode(true);
+                    console.log(filter, klon);
 
                     klon.querySelector(".kategori").textContent = ret.gsx$kategori.$t;
                     klon.querySelector(".navn").textContent = ret.gsx$navn.$t;
@@ -105,13 +111,31 @@
                     klon.querySelector(".oprindelse").textContent = ret.gsx$oprindelse.$t;
                     klon.querySelector(".profil-billede").src = "/imgs/small/" + ret.gsx$billede.$t + "-sm.jpg";
                     klon.querySelector(".profil-billede").alt = ret.gsx$billede.$t;
-                    dest.appendChild(klon);
+                    klon.querySelector(".person").addEventListener("click", () => {
+                        visDetalje(ret);
 
+                    })
+
+                    dest.appendChild(klon);
                 }
 
-
             })
+        }
 
+        function visDetalje(ret) {
+            console.log("visDetalje");
+            console.log(document.querySelector("#detalje"));
+            document.querySelector("#detalje").style.display = "block";
+            document.querySelector("#detalje .luk").addEventListener("click", skjulDetalje);
+
+            document.querySelector("#detalje h2 ").textContent = ret.gsx$navn.$t;
+            document.querySelector("#detalje img").src = ret.gsx$billede.$t;
+            document.querySelector("#detalje img").alt `billede af ${ret.gsx$billede.$t}`;
+        }
+
+        function skjulDetalje() {
+            console.log("skjulDetalje");
+            document.querySelector("#detalje").style.display = "none";
         }
     </script>
 </body>
