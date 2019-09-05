@@ -1,18 +1,3 @@
-@font-face {
-    /*font-family: 'Conv_Goldoni_DEMO';*/
-    font-family: 'Goldoni';
-    src: url('Goldoni.ttf.woff') format('woff'),
-        url('Goldoni.ttf.svg#Goldoni') format('svg'),
-        url('Goldoni.ttf.eot'),
-        url('Goldoni.ttf.eot?#iefix') format('embedded-opentype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-
-
-
-
 article img {
     width: 100%;
 }
@@ -37,12 +22,14 @@ nav button {
     font-size: 14px;
     width: 15%;
     padding: 10px;
-    margin: 25px;
+    margin-top: 1rem;
+    margin-left: 3rem;
     margin-bottom: 3%;
     border: 0;
     background-color: #ff7862;
     cursor: pointer;
     text-transform: uppercase;
+    align-items: center;
 }
 
 
@@ -80,8 +67,8 @@ article {
 }
 
 .disktop_logo {
-    width: 25%;
-    margin: 0% 40%;
+    width: 20%;
+    margin: 0% 35%;
     display: block;
 
 }
@@ -105,10 +92,10 @@ article {
 
 
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
+    /*background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;*/
 }
 
 #velkommen h1 {
